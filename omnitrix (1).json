@@ -1,0 +1,3 @@
+{"type":"minecraft:crafting_shaped","pattern":["IEI","EDE","IEI"],
+"key":{"I":{"item":"minecraft:iron_ingot"},"E":{"item":"minecraft:emerald"},"D":{"item":"minecraft:diamond"}},
+"result":{"item":"omnitrix:omnitrix"}}
